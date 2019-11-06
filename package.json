@@ -1,0 +1,26 @@
+{
+  "name": "billynunnery",
+  "version": "1.0.0",
+  "description": "_Italics is welcome to bring to the front that which i want to see in italics_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillieRey/savvy-coders-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillieRey/savvy-coders-practice/issues"
+  },
+  "homepage": "https://github.com/BillieRey/savvy-coders-practice#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0"
+  }
+}
